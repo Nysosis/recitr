@@ -1,0 +1,14 @@
+{
+  "extends": "tslint:latest",
+  "rules": {
+    "indent": "tabs",
+    "quotemark": "double",
+    "no-require-imports": false,
+    "no-var-requires": false,
+    "no-console": false,
+    "interface-name": "never-prefix",
+    "max-line-length": false,
+    "ordered-imports": false,
+    "only-arrow-functions": false
+  }
+}
